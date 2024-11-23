@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @DaniCeribeli
-- 👀 I’m interested in learn languages
-- 🌱 I’m currently learning Banco de Dados 
+- 👀 I’m interested in learn code 
+- 🌱 I’m currently learning DataBase  
 - 📫 How to reach me: dceribeli@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 DaniCeribeli/DaniCeribeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
